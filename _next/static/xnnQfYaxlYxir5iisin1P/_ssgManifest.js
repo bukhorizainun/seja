@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fibadah\u002F[slug]","\u002Fquran\u002F[nomor]","\u002Fquran\u002Fjuz\u002F[juz]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
